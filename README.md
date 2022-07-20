@@ -1,4 +1,4 @@
-# sign-up-form
+# Sign Up form
 
 Sign Up page usando HTML and CSS.
 
